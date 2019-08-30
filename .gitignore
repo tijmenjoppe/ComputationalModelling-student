@@ -1,0 +1,13 @@
+.ipynb_checkpoints/*
+opdrachten/.ipynb_checkpoints/*
+opdrachten/oud/*
+opdrachten/uitgewerkt/*
+opdrachten/student/.ipynb_checkpoints/*
+pandas_new/*
+png/*
+student/*
+
+*_(uitgewerkt).ipynb
+*_slides.ipynb
+
+uitgewerkt/generate_student_versions.py
