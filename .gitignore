@@ -11,3 +11,12 @@ student/*
 *_slides.ipynb
 
 uitgewerkt/generate_student_versions.py
+casus/*/*.url
+
+casus/apple/
+casus/fifa18/
+casus/HBO-eerstejaars/
+casus/NYC_sales/*
+casus/olympic_athletes/
+casus/titanic/
+casus/*/.ipynb_checkpoints/
