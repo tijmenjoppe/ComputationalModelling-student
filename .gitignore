@@ -20,4 +20,5 @@ casus/NYC_sales/*
 casus/olympic_athletes/
 casus/titanic/
 casus/*/.ipynb_checkpoints/
-Untitled.ipynb
+Untitled*.ipynb
+Untitled_student.ipynb
