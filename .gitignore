@@ -4,7 +4,7 @@ opdrachten/oud/*
 opdrachten/uitgewerkt/*
 opdrachten/student/.ipynb_checkpoints/*
 pandas_new/*
-png/*
+png/*.png
 student/*
 
 *_(uitgewerkt).ipynb

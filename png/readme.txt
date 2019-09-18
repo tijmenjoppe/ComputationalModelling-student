@@ -1,0 +1,1 @@
+Output directory for images generated in notebooks.
