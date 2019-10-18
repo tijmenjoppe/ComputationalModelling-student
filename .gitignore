@@ -1,16 +1,10 @@
-.ipynb_checkpoints/*
-opdrachten/.ipynb_checkpoints/*
-opdrachten/oud/*
-opdrachten/uitgewerkt/*
-opdrachten/student/.ipynb_checkpoints/*
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+*/*/.ipynb_checkpoints/
+
 pandas_new/*
 png/*.png
-student/*
 
-*_(uitgewerkt).ipynb
-*_slides.ipynb
-
-uitgewerkt/generate_student_versions.py
 casus/*/*.url
 
 casus/apple/
@@ -19,6 +13,5 @@ casus/HBO-eerstejaars/
 casus/NYC_sales/*
 casus/olympic_athletes/
 casus/titanic/
-casus/*/.ipynb_checkpoints/
-Untitled*.ipynb
-Untitled_student.ipynb
+
+numpy/numpy-100-master/
